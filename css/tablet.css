@@ -293,9 +293,6 @@
   }
 
   .footer-group-2 {
-    display: flex;
-    justify-content: unset;
-    flex-direction: column;
     padding-bottom: 0px;
     margin: auto 0px;
     margin-top: 32px;
@@ -306,14 +303,7 @@
   }
 
   .link-footer {
-    display: flex;
-    gap: 30px 60px;
-    width: 89vw;
-    flex-wrap: wrap;
-  }
-
-  .link-footer ul {
-    width: 100px;
+    column-gap: 50px;
   }
 
   .built {
