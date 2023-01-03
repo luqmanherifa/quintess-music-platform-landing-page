@@ -28,8 +28,10 @@ Font
   - [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
 Color
-  - ![#000000](https://placehold.co/20x20/000000/000000.png)  #000000
-  
+  - ![#FFC200](https://placehold.co/20x20/FFC200/FFC200.png)  #FFC200
+  - ![#423287](https://placehold.co/20x20/423287/423287.png)  #423287
+  - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
+
 ## Contact
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
