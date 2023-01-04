@@ -2,7 +2,7 @@
 Quintess is a web music streaming service platform landing page contains advantages, features, and testimonial information. The project was developed for practicing CSS using HTML, CSS, and JavaScript programming.
 
 ## Display
-![Display](https://luqmanherifa.site/images/imgquintess.png)
+![Display](https://luqmanherifa.site/img/imgquintess.png)
 
 ## Build
 Programming
