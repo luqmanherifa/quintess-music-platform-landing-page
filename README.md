@@ -19,8 +19,8 @@ Tools
   - Figma
 
 Deployment
-  - GitHub Pages
-  - Vercel
+  - [GitHub Pages](https://luqmanherifa.github.io/quintess-music-platform-landing-page)
+  - [Vercel](https://quintess-luqmanherifa.vercel.app)
 
 ## Design
 Font
