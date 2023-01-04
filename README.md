@@ -39,7 +39,7 @@ Color
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
 
 ## Thanks to
-  - [Sandhika Galih](https://github.com/sandhikagalih)
-  - [Dwinawan](https://www.instagram.com/dwi.nawan/)
+  - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
+  - [Dwinawan](https://twitter.com/dwinawan_)
   - [Stack Overflow](https://stackoverflow.com)
   - [W3Schools](https://www.w3schools.com)
