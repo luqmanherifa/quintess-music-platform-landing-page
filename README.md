@@ -20,6 +20,9 @@ Tools
 Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/quintess-music-platform-landing-page)
   - [Vercel](https://quintess-luqmanherifa.vercel.app)
+  
+Date Created
+  - November 2022
 
 ## Design
 Font
