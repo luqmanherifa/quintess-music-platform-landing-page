@@ -4,35 +4,38 @@ Quintess is a web music streaming service platform landing page contains advanta
 ## Display
 ![Display](https://luqmanherifa.site/img/imgquintess.png)
 
-## Build
-Programming
+## Software
+### Language
   - HTML/CSS
   - JavaScript
 
-Library
+### Library
   - Google Fonts
   - Font Awesome
 
-Tools
+### Tools
   - Visual Studio Code
-  - Figma
-
-Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/quintess-music-platform-landing-page)
-  - [Vercel](https://quintess-luqmanherifa.vercel.app)
-  
-Date Created
-  - November 2022
 
 ## Design
-Font
+### Font
   - [Poppins](https://fonts.google.com/specimen/Poppins)
   - [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
-Color
+### Color
   - ![#423287](https://placehold.co/20x20/423287/423287.png)  #423287
   - ![#FFC200](https://placehold.co/20x20/FFC200/FFC200.png)  #FFC200
   - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
+
+### Tools
+  - Figma
+
+## Build
+### Deployment
+  - [GitHub Pages](https://luqmanherifa.github.io/quintess-music-platform-landing-page)
+  - [Vercel](https://quintess-luqmanherifa.vercel.app)
+  
+### Date Created
+  - November 2022
 
 ## Contact
   - [Email](mailto:luqmanherifa@gmail.com)
