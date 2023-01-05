@@ -1,5 +1,5 @@
 # Quintess: Music Platform Landing Page
-Quintess is a web music streaming service platform landing page contains advantages, features, and testimonial information. The project was developed for practicing CSS using HTML/CSS, and JavaScript programming.
+Quintess is a web music streaming service platform landing page contains advantages, features, and testimonial information. The project was developed for practicing CSS using HTML/CSS and JavaScript programming.
 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgquintess.png)
