@@ -34,6 +34,11 @@ Quintess is a web music streaming service platform landing page contains advanta
   - [GitHub Pages](https://luqmanherifa.github.io/quintess-music-platform-landing-page)
   - [Vercel](https://quintess-luqmanherifa.vercel.app)
   
+### Responsive
+  - Desktop
+  - Tablet
+  - Mobile
+  
 ### Date Created
   - November 2022
 
