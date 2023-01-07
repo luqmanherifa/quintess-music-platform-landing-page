@@ -13,7 +13,7 @@ Quintess is a web music streaming service platform landing page contains advanta
   - Google Fonts
   - Font Awesome
 
-- ### Tool
+- ### Tools
   - Visual Studio Code
 
 ## Design
@@ -26,7 +26,7 @@ Quintess is a web music streaming service platform landing page contains advanta
   - ![#FFC200](https://placehold.co/20x20/FFC200/FFC200.png)  #FFC200
   - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
 
-- ### Tool
+- ### Tools
   - Figma
 
 ## Build
